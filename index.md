@@ -1,6 +1,12 @@
 # Welcome page
 
 [about page](about)
-    def you():
-     print(hello)
-    
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+sdasda
