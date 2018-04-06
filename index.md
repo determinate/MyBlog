@@ -1,3 +1,3 @@
 # This First page
 
-[about page](MyBlog/about)
+[about page](about)
